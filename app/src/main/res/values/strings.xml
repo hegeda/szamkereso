@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Számkereső</string>
+    <string name="button_label">Kitalálom</string>
+    <string name="tipp_label">"Adj meg egy számot 1 és 100 között"</string>
+</resources>
